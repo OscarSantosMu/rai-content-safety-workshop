@@ -16,8 +16,8 @@ At the end of the workshop you will learn how to:
 
 The Content Safety API can be used in different programming languages. For this lab, we’ll be using Python.
 -	Basic knowledge of Python.
--	Login or sign up for a [Free Azure account](https://azure.microsoft.com/free/).
--	Install [Visual Studio Code](https://code.visualstudio.com/Download "Visual Studio Code")
+-   If you are student get a Free Azure account [here](https://azure.microsoft.com/free/students/?WT.mc_id=studentamb_118941) if not, login or sign up for the Free account [here](https://azure.microsoft.com/free/?WT.mc_id=studentamb_118941).
+-	Install [Visual Studio Code](https://code.visualstudio.com/Download "Visual Studio Code") (Optional)
 
 
 ## Getting Started
